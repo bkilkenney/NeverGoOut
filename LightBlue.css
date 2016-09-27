@@ -1,0 +1,16 @@
+﻿body {
+    background-color:lightblue;
+}
+
+body{
+    text-align:center; font-family:Arial;
+} 
+
+ul{
+    list-style:none;
+}
+
+}
+ul li:first-letter{
+     text-transform: uppercase !important; 
+}

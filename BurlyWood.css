@@ -1,9 +1,13 @@
 ﻿h1{
-    border:dotted;
+    border-bottom:dotted;
 }
 
 body{
     background-color:burlywood;
+}
+
+body{
+    border-bottom:dotted; border-top:dotted; border-left:dotted; border-right:dotted;
 }
 
 ul li::first-letter {
@@ -20,13 +24,30 @@ ul li::first-letter {
     text-size-adjust: 200%;
 }
 
-h1, ul{
-    border:dotted;
+ul {
+    list-style: none;
+}
+
+div{
+    text-align:center;
 }
 
 body {
     font-style:italic;
 }
+
+div2{
+    text-align:center;
+}
+
+body{
+    padding: 1.5cm;
+}
+
+.centerLinkAtBottom{
+    text-align:center;
+}
+
 
 
 

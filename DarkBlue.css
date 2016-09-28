@@ -10,6 +10,9 @@ ul {
     list-style-position: inside;
 }
 
+body{
+    padding: 3cm;
+}
 
 
 h1, p {

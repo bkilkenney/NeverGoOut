@@ -6,9 +6,7 @@ body{
     background-color:burlywood;
 }
 
-body{
-    border-bottom:dotted; border-top:dotted; border-left:dotted; border-right:dotted;
-}
+
 
 ul li::first-letter {
   text-transform: uppercase; 
@@ -46,6 +44,11 @@ body{
 
 .centerLinkAtBottom{
     text-align:center;
+}
+
+#wrap{
+    background-color:aliceblue;
+    border-bottom:dotted; border-top:dotted; border-left:dotted; border-right:dotted;
 }
 
 

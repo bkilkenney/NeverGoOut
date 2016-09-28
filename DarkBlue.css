@@ -10,6 +10,15 @@ ul {
     list-style-position: inside;
 }
 
+
+
 h1, p {
     text-align:left;
 }
+
+h1,p{
+    line-height:50%;
+}
+
+
+

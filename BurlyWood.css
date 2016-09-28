@@ -1,0 +1,32 @@
+﻿h1{
+    border:dotted;
+}
+
+body{
+    background-color:burlywood;
+}
+
+ul li::first-letter {
+  text-transform: uppercase; 
+
+}
+
+ul li::first-letter {
+  font-weight:bolder
+
+}
+
+ul li::first-letter {
+    text-size-adjust: 200%;
+}
+
+h1, ul{
+    border:dotted;
+}
+
+body {
+    font-style:italic;
+}
+
+
+
